@@ -144,7 +144,7 @@ div.bibinfo pre { clear:both; }
 }
 
 a {
-  color: #9436f7;
+  color: #8336f7;
 }
 
 /* Sticky footer styles
@@ -203,7 +203,7 @@ ul.clist > li:before {
     display: inline-block;
     position: absolute;
     border-radius: 50%;
-    border: 3px solid #9436f7;
+    border: 3px solid #8336f7;
     left: 20px;
     width: 20px;
     height: 20px;
